@@ -2,7 +2,7 @@
 # Assignment 5/6 Biopython/Phylogenetics
 # Bioinformatics BBE5, WS21/22
 # Author: Dora Frauscher
-# GitHub:
+# GitHub: https://github.com/dorafrau/BIN-Assignment-5-6.git
 #
 
 from Bio import Entrez, pairwise2
